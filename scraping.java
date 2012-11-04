@@ -1,5 +1,6 @@
 //Facebook scraper. Login to facebook, navigate to webpage, retrieve and parse the page,
 //insert into database.
+//Nishith Agarwal (nagarwal36@gatech.edu)
 //Vinay Bharadwaj (vbharadwaj6@cc.gatech.edu)
 //WORKING COPY DO NOT MODIFY!
 import java.io.File;
